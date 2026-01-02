@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=640x480
+https://raw.githubusercontent.com/orphanvehicle/e7a4f3866f1ef894/refs/heads/master/github_playlist.m3u8?_cb=1767379736
